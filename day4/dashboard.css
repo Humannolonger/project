@@ -1,0 +1,31 @@
+
+.header-card {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+  }
+  
+  .card {
+    padding: 20px;
+    background: white;
+    border-radius: 12px;
+  }
+  
+  .card-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    min-width: 400px;
+  }
+  
+  
+  .card-bar {
+    width: 100%;
+    height: 18px;
+    background: gray;
+    border-radius: 12px;
+  }
+  
+  .card-details {
+    display: flex;
+  }
